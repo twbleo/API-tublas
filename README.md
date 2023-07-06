@@ -8,9 +8,13 @@ neste link https://www.youtube.com/watch?v=YbtED2p11LE, expliquei passo a passo 
 Aqui são as rotas e oque se esperam delas
 
 Route::get('/tasks', [TaskController::class, 'index']); --> Puxar todas tarefas
+
 Route::post('/tasks', [TaskController::class, 'store']); --> Postar novas tarefas
+
 Route::get('/tasks/{task}', [TaskController::class, 'show']); --> Puxar tarefas expecíficas (filtro)
+
 Route::put('/tasks/{task}', [TaskController::class, 'update']); --> atualizar tarefas existentes
+
 Route::delete('/tasks/{task}', [TaskController::class, 'destroy']); --> deletar tarefas
 
 Obrigado por ler e ver minha API
