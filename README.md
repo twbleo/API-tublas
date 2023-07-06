@@ -1,11 +1,11 @@
 ## Trabalho
 
 Esta é a minha API, com a função de poder listar,atualizar,criar e deletar tarefas.
-neste link ,expliquei passo a passo as funçoes,o banco de dados e como utilizar a minha API com proposito pedido pelo professor joão vitor
+neste link https://www.youtube.com/watch?v=YbtED2p11LE, expliquei passo a passo as funçoes,o banco de dados e como utilizar a minha API com proposito pedido pelo professor joão vitor
 
 Obrigado por ler e ver minha API
 
-feedbacks : Ellenleo20@gmail.com
+feedback : Ellenleo20@gmail.com
 
 
 <img src="https://img.quizur.com/f/img61240c39814422.17188446.jpg?lastEdited=1629752387">
