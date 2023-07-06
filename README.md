@@ -1,6 +1,7 @@
 ## Trabalho
 
-Esta é a minha API, com a função de poder listar,atualizar,criar e deletar tarefas.
+Meu nome é Leonardo Dias Santana Ribeiro do lab 7 e esta é a minha API, com a função de poder listar,atualizar,criar e deletar tarefas.
+
 neste link https://www.youtube.com/watch?v=YbtED2p11LE, expliquei passo a passo as funçoes,o banco de dados e como utilizar a minha API com proposito pedido pelo professor joão vitor
 
 Obrigado por ler e ver minha API
